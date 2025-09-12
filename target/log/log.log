@@ -1,0 +1,63 @@
+2025-09-11 15:31:13 DEBUG - Set '30' timeout in seconds for loading of pages
+2025-09-11 15:31:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-09-11 15:31:13 INFO  - Browser 'CHROME' ready...
+2025-09-11 15:31:13 INFO  - Maximizing browser window
+2025-09-11 15:31:13 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-11 15:31:18 INFO  - Waiting for page to load
+2025-09-11 15:31:18 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-11 15:31:18 INFO  - Text Field 'Username' :: Clearing
+2025-09-11 15:31:18 INFO  - Text Field 'Username' :: Typing 'wrongUser'
+2025-09-11 15:31:18 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-11 15:31:20 INFO  - Waiting for page to load
+2025-09-11 15:31:20 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-11 15:31:20 INFO  - Text Field 'Username' :: Clearing
+2025-09-11 15:31:20 INFO  - Text Field 'Username' :: Typing 'Admin'
+2025-09-11 15:31:20 INFO  - Closing browser
+2025-09-11 15:41:49 DEBUG - Set '30' timeout in seconds for loading of pages
+2025-09-11 15:41:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-09-11 15:41:50 INFO  - Browser 'CHROME' ready...
+2025-09-11 15:41:50 INFO  - Maximizing browser window
+2025-09-11 15:41:50 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-11 15:41:54 INFO  - Waiting for page to load
+2025-09-11 15:41:54 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-11 15:41:55 INFO  - Text Field 'Username' :: Clearing
+2025-09-11 15:41:55 INFO  - Text Field 'Username' :: Typing 'wrongUser'
+2025-09-11 15:41:55 INFO  - Text Field 'Password' :: Clearing
+2025-09-11 15:41:55 INFO  - Text Field 'Password' :: Typing 'wrongPass'
+2025-09-11 15:41:55 INFO  - Button 'Login' :: Clicking
+2025-09-11 15:41:55 INFO  - Label 'Error toast' :: Getting text from element
+2025-09-11 15:41:57 INFO  - Label 'Error toast' :: Element's text: [Invalid credentials]
+2025-09-11 15:41:57 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-11 15:41:58 INFO  - Waiting for page to load
+2025-09-11 15:41:58 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-11 15:41:59 INFO  - Text Field 'Username' :: Clearing
+2025-09-11 15:41:59 INFO  - Text Field 'Username' :: Typing 'Admin'
+2025-09-11 15:41:59 INFO  - Text Field 'Password' :: Clearing
+2025-09-11 15:41:59 INFO  - Text Field 'Password' :: Typing 'admin123'
+2025-09-11 15:41:59 INFO  - Button 'Login' :: Clicking
+2025-09-11 15:41:59 INFO  - Label 'Dashboard' :: Waiting for element to be displayed
+2025-09-11 15:42:01 INFO  - Closing browser
+2025-09-12 17:45:58 DEBUG - Set '30' timeout in seconds for loading of pages
+2025-09-12 17:45:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-09-12 17:45:58 INFO  - Browser 'CHROME' ready...
+2025-09-12 17:45:58 INFO  - Maximizing browser window
+2025-09-12 17:45:58 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-12 17:46:02 INFO  - Waiting for page to load
+2025-09-12 17:46:03 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-12 17:46:03 INFO  - Text Field 'Username' :: Clearing
+2025-09-12 17:46:03 INFO  - Text Field 'Username' :: Typing 'wrongUser'
+2025-09-12 17:46:03 INFO  - Text Field 'Password' :: Clearing
+2025-09-12 17:46:03 INFO  - Text Field 'Password' :: Typing 'wrongPass'
+2025-09-12 17:46:03 INFO  - Button 'Login' :: Clicking
+2025-09-12 17:46:03 INFO  - Label 'Error toast' :: Getting text from element
+2025-09-12 17:46:05 INFO  - Label 'Error toast' :: Element's text: [Invalid credentials]
+2025-09-12 17:46:05 INFO  - Navigate to url - 'https://opensource-demo.orangehrmlive.com/'
+2025-09-12 17:46:05 INFO  - Waiting for page to load
+2025-09-12 17:46:05 INFO  - Label 'Login Page' :: Waiting for element to be displayed
+2025-09-12 17:46:06 INFO  - Text Field 'Username' :: Clearing
+2025-09-12 17:46:06 INFO  - Text Field 'Username' :: Typing 'Admin'
+2025-09-12 17:46:06 INFO  - Text Field 'Password' :: Clearing
+2025-09-12 17:46:06 INFO  - Text Field 'Password' :: Typing 'admin123'
+2025-09-12 17:46:06 INFO  - Button 'Login' :: Clicking
+2025-09-12 17:46:06 INFO  - Label 'Dashboard' :: Waiting for element to be displayed
+2025-09-12 17:46:08 INFO  - Closing browser

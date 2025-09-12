@@ -1,0 +1,17 @@
+{
+  "browserName": "chrome",
+  "isRemote": false,
+  "remoteConnectionUrl": "http://localhost:4444/wd/hub",
+  "timeouts": {
+    "timeoutImplicit": 0,
+    "timeoutCondition": 10,
+    "timeoutScript": 10,
+    "timeoutPageLoad": 30,
+    "timeoutCommand": 30,
+    "timeoutPollingInterval": 200
+  },
+  "retry": { "number": 1, "pollingInterval": 300 },
+  "logger": { "language": "en", "isLogEnabled": true, "logPageSource": false },
+
+  "isElementHighlightEnabled": false
+}
