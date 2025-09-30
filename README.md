@@ -1,5 +1,5 @@
 
-# 🌦️ Weather Automation Framework
+# 🌦️ BDD Cucumber framework with Selenium Automation
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java\&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3+-C71A36?logo=apache-maven\&logoColor=white)
@@ -179,4 +179,5 @@ To change browser → update `browserName` (`chrome`, `firefox`, `edge`, `opera`
 ## 👤 Author
 
 **Raisur Rahman**
+
 
